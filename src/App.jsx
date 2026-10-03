@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:5000";
+const API = "https://mystore-1-5sgm.onrender.com";
 
 const demoProducts = [
   {
